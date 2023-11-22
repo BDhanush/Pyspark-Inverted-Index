@@ -1,0 +1,59 @@
+Admission to NYU’s Master of Science in Data Science is extremely competitive. This speaks both to the popularity of the field of Data Science and to the very high calibre of students who we seek as part of our program.
+
+Without exception, you must submit the following to support your application for admission:
+
+GRE scores
+TOEFL or IELTS; however, TOEFL is preferred (Required for all applicants whose native language is not English and who have not received a university degree in an English-speaking country)
+Official college transcripts
+Three letters of recommendation (we prefer all letters on letterhead)
+Statement of Academic Purpose
+For more information, visit the graduate schools application resource center.
+
+Below, we provide more details about our expectations.
+Educational Prerequisites
+Successful applicants to the MSDS come from many different undergraduate backgrounds, including degrees in Statistics, Computer Science, Mathematics, Engineering, Economics, Business, Biology, Physics and Psychology. In the 2022 intake cycle, the average GPA was 3.76. Our students’ transcripts usually include As and Bs (only), and we expect stronger grades in more relevant subject matter (see below) from those coming from less selective institutions. Regardless of degree, we require specific and substantial knowledge of certain mathematical competencies, and some training in programming and basic computer science.
+
+To be considered for the program, you will be required to have completed the following (or equivalents, e.g. MOOCs certification or course credit):
+
+Calculus I: limits, derivatives, series, integrals, etc.
+Linear Algebra
+Intro to Computer Science (or an equivalent “CS-101” programming course): We have no set requirements as regards specific languages, but we generally expect serious academic and/or professional experience with Python and/or R at a minimum.
+One of Calculus II, Probability, Statistics, or an advanced physics, engineering, or econometrics course with heavy mathematical content
+Preference is given to applicants with prior exposure to machine learning, computational statistics, data mining, large-scale scientific computing, operations research (either in an academic or professional context), as well as to applicants with significantly more mathematical and/or computer science training than the minimum requirements listed above.
+
+Work Experience
+Many of our students join us directly from undergraduate, but we also very much welcome evidence of relevant work experience—and clear employment goals once the MSDS is completed—in data science.  Past experience and career aspiration goals can be related to commercial industry, government, academia or some other sector.
+
+Standardized Tests
+We require that students submit standardized tests scores for the GRE. There are no exceptions: we do not accept “out of date” scores; nor do we accept scores of other, similar tests; nor do we allow waivers (regardless of previous educational attainment or circumstance).  
+
+In addition to sending your official scores to the Graduate School of Arts and Science please upload a PDF of the unofficial scores, which are made available upon completion of your test, to the “Additional Information Section” of your application.
+
+We wish to emphasize that we have no set minimums for the GREs, and we consider the totality of an application when making a decision about admission. Nonetheless, to the extent that it is helpful to give applicants a sense of things, what follows are the averages for the 2022 cohort of MSDS students:
+
+Average GRE Verbal: 160.0 (82 percentile)
+Average GRE Quantitative: 167.9 (91 percentile)
+Average GRE Analytical: 4.03 (56 percentile)
+Average TOEFL (where required): 110
+We also require evidence of proficiency with English as a second language for certain students who must provide it. For those students, we generally require a TOEFL score of at least 100 overall (and have strong preferences for better scores), and per university guidelines, will not admit those falling below that threshold.
+
+For additional information regarding standardized testing please visit the Graduate School of Arts and Science’s FAQ Page.
+
+Three Letters of Recommendation
+Recommendations for admitted students are invariably excellent, with references holding applicants in the highest esteem relative to other students or employees with whom they have interacted in the past several years. References from professors or employers who can comment directly and in a detailed way on the applicant’s case, aptitude for, and attitude to data science projects are treated with the most weight. Though not required, we prefer all letters on letterhead.
+
+For additional information regarding letters of recommendation please visit the Graduate School of Arts and Science’s FAQ Page.
+
+Internal Transfers/Current NYU Students
+We do not allow internal transfers from other NYU graduate programs. If you are a current NYU graduate student and you would like to be a part of the NYU Data Science MS program, please note that you are required to submit a new application.
+
+Ready to Apply?
+If your background meets the majority of these requirements, and you have a desire to develop the methods to harness the potential of data, then we encourage you to begin the application process. Please proceed to the Graduate School of Arts and Science webpage to apply for admission. 
+
+Prior to starting your application please review the Graduate School of Arts and Science’s general application policies page.
+
+For more questions, email us at cds-admissions@nyu.edu.
+
+Deferral Requests
+The Center for Data Science will not approve a request for deferral of admission. If an admitted student wishes to delay enrollment, it will be necessary to turn down the offer of admission and reapply for admission the following year. A completely new application will be required. The new application will be considered along with all other applications at that later time.
+
